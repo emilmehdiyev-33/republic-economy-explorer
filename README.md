@@ -6,6 +6,8 @@
 
 **[🌐 Live Demo](http://republic-explorer.xyz) · [📊 Analytics](http://republic-explorer.xyz) · [🚀 Submit Project](http://republic-explorer.xyz)**
 
+http://republic-explorer.xyz
+
 ![Republic AI](https://img.shields.io/badge/Republic_AI-Ecosystem-00ffb2?style=for-the-badge&labelColor=030509)
 ![Status](https://img.shields.io/badge/Status-Live-00ffb2?style=for-the-badge&labelColor=030509)
 ![License](https://img.shields.io/badge/License-MIT-00c8ff?style=for-the-badge&labelColor=030509)
